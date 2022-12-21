@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hethongphantan_cuoiki.iml" filepath="$PROJECT_DIR$/.idea/Hethongphantan_cuoiki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clientChat/clientChat.iml" filepath="$PROJECT_DIR$/clientChat/clientChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serverChat/serverChat.iml" filepath="$PROJECT_DIR$/serverChat/serverChat.iml" />
+    </modules>
+  </component>
+</project>
